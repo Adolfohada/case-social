@@ -28,7 +28,8 @@ contendo:
 - Horário de atendimento
 Adicionar redes sociais ao rodapé: adicionar o perfil do linkedin e instragram ao rodapé
 
-Basicamente fizemos a alteração do site web com as devidas ordenadas
+Basicamente fizemos a alteração do site web com as devidas ordenadas.
+
 Nomes dos integrantes e rm:
 -Adolfo Kentaro Hada rm556884
 -Bruno Otavio Silva De Oliveira rm556196
